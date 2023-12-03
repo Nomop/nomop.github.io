@@ -1,8 +1,7 @@
 ---
 title: Pandas如何把csv数据一列拆分成多列
-date: 2023-11-21
-updated:
-tags: 机器学习
+date: 2023-11-21 18:06:19
+tags: [机器学习,数据处理,Pandas]
 categories: MachineLearning
 description: 解决网上下载的csv数据集只集中在一列的情况，得到一个多列特征的df对象
 ---
