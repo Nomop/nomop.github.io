@@ -2,5 +2,6 @@
 my blog
 
 网站：
-zhoufm.top
+https://zhoufm.top/
+
 https://nomop.github.io/
