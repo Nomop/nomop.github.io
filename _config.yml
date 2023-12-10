@@ -3,12 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: ⭐Nomo的博客⭐
 subtitle: ''
 description: ''
 keywords:
-author: John Doe
-language: en
+author: Nomo
+language: zh-CN
 timezone: ''
 
 # URL
@@ -102,4 +102,6 @@ theme: butterfly
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ''
+  type: git
+  repo: https://github.com/Nomop/nomop.github.io.git
+  branch: branch1
